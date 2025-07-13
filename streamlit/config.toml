@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#23F530"  # Warm Vibrant Orange
+backgroundColor = "#121212"  # Pure Black for contrast
+secondaryBackgroundColor = "#1E1E1E"  # Dark Charcoal for depth
+textColor = "#EAEAEA"  # Soft White for comfort
+font = "Time Romans"
